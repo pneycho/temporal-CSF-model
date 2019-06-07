@@ -11,7 +11,7 @@ This is a *personal* implementation of the paper "Spatio-Temporal Just Noticeabl
 
 
 ### REQUIREMENTS:
-This program requires a block-matching motion estimation algorithm to calculate the temporal JND profile. I have used the Adaptive Rood Pattern Search algorithm (The motionARPS function in line 136). You can download it from [here]( https://in.mathworks.com/matlabcentral/fileexchange/8761-block-matching-algorithms-for-motion-estimation ).
+This program requires a block-matching motion estimation algorithm to calculate the temporal JND profile. I have used the Adaptive Rood Pattern Search algorithm (The motionEstARPS function in line 136). You can download it from [here]( https://in.mathworks.com/matlabcentral/fileexchange/8761-block-matching-algorithms-for-motion-estimation ).
 Other techniques would work as well. 
 
 [MATLAB](https://in.mathworks.com/products.html)
