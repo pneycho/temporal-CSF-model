@@ -7,7 +7,7 @@ This is a *personal* implementation of the paper "Spatio-Temporal Just Noticeabl
 
 ` "Spatio-Temporal Just Noticeable Distortion Profile for Grey Scale Image/Video in DCT Domain",`\
 `Zhenyu Wei and King N. Ngan, `\
- `IEEE Transactions on Circuits and Systems for Video Technology, Vol.19, No.3, March 2009 `\ `
+ `IEEE Transactions on Circuits and Systems for Video Technology, Vol.19, No.3, March 2009 `
 
 
 ### REQUIREMENTS:
