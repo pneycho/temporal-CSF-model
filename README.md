@@ -26,4 +26,5 @@ Video file
 
 #### Output: 
 T_JND_s =  Spatial JND Profile
+
 T_JND = Temporal JND Profile
