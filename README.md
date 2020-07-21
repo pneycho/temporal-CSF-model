@@ -1,7 +1,7 @@
 # temporalCSFmodel
 >By Shreyan Sanyal
 
-Estimates the spatio-Temporal JND profile of video frames
+Estimates the spatio-Temporal Just Noticeable Difference profile of video frames
 
 This is a *personal* implementation of the paper "Spatio-Temporal Just Noticeable Distortion Profile for Grey Scale Image/Video in DCT Domain". If you use this code, you must cite the following paper:
 
