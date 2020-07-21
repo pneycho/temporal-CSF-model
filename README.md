@@ -21,9 +21,9 @@ Other techniques would work as well.
 
 Edit (Put in the video file location) and run `demo.m` to get started.
 So,
-# Input: 
+#### Input: 
 Video file
 
-# Output: 
+#### Output: 
 T_JND_s =  Spatial JND Profile
 T_JND = Temporal JND Profile
