@@ -19,4 +19,11 @@ Other techniques would work as well.
 
 ### Usage:
 
-Edit (Put in the video file location) and run `demo.m` to get started
+Edit (Put in the video file location) and run `demo.m` to get started.
+So,
+# Input: 
+Video file
+
+# Output: 
+T_JND_s =  Spatial JND Profile
+T_JND = Temporal JND Profile
