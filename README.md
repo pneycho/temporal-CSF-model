@@ -19,4 +19,4 @@ Other techniques would work as well.
 
 ### Usage:
 
-Edit and run `demo.m` to get started
+Edit (Put in the video file location) and run `demo.m` to get started
